@@ -1,0 +1,81 @@
+<animated-vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt">
+    <aapt:attr name="android:drawable">
+        <vector
+            android:name="vector"
+            android:width="288dp"
+            android:height="288dp"
+            android:viewportWidth="288"
+            android:viewportHeight="288">
+            <group
+                android:name="group_1"
+                android:pivotX="144"
+                android:pivotY="144">
+                <path
+                    android:name="path"
+                    android:pathData="M 144 48 C 118.549 48 94.114 58.121 76.118 76.118 C 58.121 94.114 48 118.549 48 144 C 48 169.451 58.121 193.886 76.118 211.882 C 94.114 229.879 118.549 240 144 240 C 169.451 240 193.886 229.879 211.882 211.882 C 229.879 193.886 240 169.451 240 144 C 240 118.549 229.879 94.114 211.882 76.118 C 193.886 58.121 169.451 48 144 48 Z"
+                    android:fillColor="#21ED00"
+                    android:strokeWidth="1"/>
+                <group android:name="wrapper">
+                    <clip-path
+                        android:name="clip0_1_4"
+                        android:pathData="M 56 56 L 232 56 L 232 232 L 56 232 Z"/>
+                    <group android:name="group">
+                        <path
+                            android:name="path_1"
+                            android:pathData="M 195.923 130.999 C 192.922 130.999 190.009 131.285 187.22 131.978 L 176.109 102.109 L 179.729 102.109 C 185.426 102.109 190.815 100.013 194.903 96.045 L 198.737 92.368 C 200.48 90.677 200.521 87.916 198.83 86.174 C 197.139 84.431 194.356 84.401 192.614 86.092 L 188.779 89.73 C 186.341 92.096 183.127 93.316 179.729 93.316 L 169.777 93.316 C 168.336 93.316 166.986 94.111 166.165 95.294 C 165.344 96.478 165.154 98.034 165.658 99.383 L 169.887 110.738 C 169.86 110.738 169.832 110.821 169.805 110.821 C 169.796 110.821 169.787 110.901 169.777 110.901 L 113.519 110.901 L 105.922 98.101 L 114.174 95.232 C 116.206 94.534 117.436 92.565 117.082 90.445 C 116.728 88.326 114.895 86.869 112.746 86.869 L 88.59 86.869 C 85.205 86.869 82.45 89.51 82.45 92.895 C 82.45 98.136 86.709 102.344 91.943 102.344 C 92.993 102.344 94.033 102.141 95.037 101.797 L 97.442 100.957 L 105.148 113.851 L 99.229 131.603 C 97.287 131.211 95.293 130.964 93.254 130.899 C 82.944 130.569 73.292 134.497 66.161 141.859 C 59.307 148.936 55.704 158.267 56.019 168.132 C 56.624 187.088 71.946 202.41 90.902 203.015 C 91.296 203.027 91.687 203.033 92.079 203.033 C 101.933 203.033 111.137 199.097 117.995 192.017 C 123.542 186.288 126.958 178.898 127.892 171.278 L 134.956 171.278 C 136.479 172.45 138.451 173.408 140.607 173.408 C 145.411 173.408 149.32 169.518 149.32 164.713 C 149.32 163.153 148.902 161.701 148.181 160.432 L 172.825 118.635 L 179.011 135.217 C 167.619 141.29 159.844 153.29 159.844 167.075 C 159.844 186.969 176.029 203.154 195.923 203.154 C 215.816 203.154 232 186.969 232 167.076 C 232 147.183 215.816 130.999 195.923 130.999 Z M 162.086 119.695 L 140.628 156.091 C 140.621 156.091 140.614 156.055 140.607 156.055 C 140.581 156.055 140.557 156.111 140.532 156.112 L 118.767 119.695 L 162.086 119.695 Z M 111.096 123.803 L 133.006 160.447 C 132.644 161.092 132.368 161.9 132.179 162.486 L 127.884 162.486 C 126.365 150.176 118.468 139.554 107.568 134.349 L 111.096 123.803 Z M 99.639 162.486 C 99.344 161.9 99.006 161.591 98.626 161.177 L 103.823 145.569 C 110.107 149.042 114.703 155.452 116.035 162.486 L 99.639 162.486 Z M 109.574 183.861 C 104.758 188.832 98.254 191.504 91.276 191.279 C 78.485 190.871 68.145 180.541 67.737 167.749 C 67.524 161.085 69.955 154.787 74.583 150.01 C 79.213 145.23 85.426 142.6 92.078 142.6 C 92.344 142.6 92.611 142.605 92.88 142.614 C 93.76 142.642 94.627 142.722 95.482 142.842 L 90.226 158.61 C 86.376 159.511 83.496 162.965 83.496 167.087 C 83.496 171.891 87.405 175.763 92.209 175.763 C 95.463 175.763 98.302 174.209 99.798 171.278 L 116.035 171.278 C 115.184 175.968 112.975 180.349 109.574 183.861 Z M 195.923 191.432 C 182.494 191.432 171.568 180.506 171.568 167.077 C 171.568 158.324 176.211 150.638 183.162 146.345 L 191.426 168.493 C 192.085 170.262 193.762 171.354 195.545 171.354 C 196.056 171.354 196.575 171.265 197.081 171.075 C 199.356 170.227 200.512 167.694 199.663 165.42 L 191.357 143.158 C 192.837 142.876 194.362 142.723 195.923 142.723 C 209.351 142.723 220.276 153.648 220.276 167.077 C 220.276 180.506 209.352 191.432 195.923 191.432 Z"
+                            android:fillColor="#000000"
+                            android:strokeWidth="1"/>
+                    </group>
+                </group>
+            </group>
+        </vector>
+    </aapt:attr>
+    <target android:name="group_1">
+        <aapt:attr name="android:animation">
+            <set>
+                <objectAnimator
+                    android:propertyName="scaleX"
+                    android:startOffset="200"
+                    android:duration="600"
+                    android:valueFrom="0.2"
+                    android:valueTo="1"
+                    android:valueType="floatType"
+                    android:interpolator="@android:interpolator/fast_out_slow_in"/>
+                <objectAnimator
+                    android:propertyName="scaleY"
+                    android:startOffset="200"
+                    android:duration="600"
+                    android:valueFrom="0.2"
+                    android:valueTo="1"
+                    android:valueType="floatType"
+                    android:interpolator="@android:interpolator/fast_out_slow_in"/>
+                <objectAnimator
+                    android:propertyName="translateX"
+                    android:startOffset="200"
+                    android:duration="200"
+                    android:valueFrom="-50"
+                    android:valueTo="50"
+                    android:valueType="floatType"
+                    android:interpolator="@android:anim/overshoot_interpolator"/>
+                <objectAnimator
+                    android:propertyName="translateX"
+                    android:startOffset="200"
+                    android:duration="0"
+                    android:valueFrom="0"
+                    android:valueTo="0"
+                    android:valueType="floatType"
+                    android:interpolator="@android:interpolator/fast_out_slow_in"/>
+                <objectAnimator
+                    android:propertyName="translateX"
+                    android:startOffset="400"
+                    android:duration="200"
+                    android:valueFrom="50"
+                    android:valueTo="0"
+                    android:valueType="floatType"
+                    android:interpolator="@android:anim/overshoot_interpolator"/>
+            </set>
+        </aapt:attr>
+    </target>
+</animated-vector>
