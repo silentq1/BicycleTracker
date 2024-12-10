@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/totalRides">
+
+    <fragment
+        android:id="@+id/totalRides"
+        android:name="ru.gzaytsev.bicycletracker.presentation.totalRidesFragment.TotalRidesFragment"
+        android:label="fragment_total_rides"
+        tools:layout="@layout/fragment_total_rides" >
+    </fragment>
+
+
+</navigation>

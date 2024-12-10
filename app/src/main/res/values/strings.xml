@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">BicycleTracker</string>
+
+    <string name="empty_rides_list">There is no any rides yet</string>
+    <string name="start_ride">Start a new ride</string>
+    <string name="settings_description">Settings</string>
 </resources>
