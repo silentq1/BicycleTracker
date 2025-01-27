@@ -2,6 +2,6 @@
 <resources>
 
     <style name="Theme.BicycleTracker" parent="Theme.SplashScreen" >
-        <item name="postSplashScreenTheme">@style/Theme.AppCompat.NoActionBar</item>
+        <item name="postSplashScreenTheme">@style/Theme.AppCompat.Light.NoActionBar</item>
     </style>
 </resources>
